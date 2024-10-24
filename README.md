@@ -9,52 +9,52 @@ Project Tasks
 
 Throughout this project, I performed various tasks that professional data analysts do as part of their jobs, including:
 
-Data Collection: Gathering data from multiple sources.
+  -Data Collection: Gathering data from multiple sources.
 
-Data Wrangling and Preparation: Cleaning and preparing the data for analysis.
+  -Data Wrangling and Preparation: Cleaning and preparing the data for analysis.
 
-Exploratory Data Analysis: Understanding the data through summary statistics and visualizations.
+  -Exploratory Data Analysis: Understanding the data through summary statistics and visualizations.
 
-Statistical Analysis and Data Mining: Applying statistical methods and data mining techniques to uncover insights.
+  -Statistical Analysis and Data Mining: Applying statistical methods and data mining techniques to uncover insights.
 
-Data Visualization: Creating charts and plots to visualize the data.
+  -Data Visualization: Creating charts and plots to visualize the data.
 
-Interactive Dashboard Creation: Building an interactive dashboard to present the findings.
+  -Interactive Dashboard Creation: Building an interactive dashboard to present the findings.
 
 
 Tools and Technologies
 
 The following tools and technologies were used in this project:
 
-Jupyter Notebooks: For documenting and running the analysis.
+  -Jupyter Notebooks: For documenting and running the analysis.
 
-Python Libraries: Including Pandas, Numpy, Scikit-learn, Scipy, Matplotlib, and Seaborn.
+  -Python Libraries: Including Pandas, Numpy, Scikit-learn, Scipy, Matplotlib, and Seaborn.
 
-SQL and Relational Databases (RDBMS): For data storage and querying.
+  -SQL and Relational Databases (RDBMS): For data storage and querying.
 
-Business Intelligence (BI) Tools: Such as IBM Cognos Analytics for dashboard creation.
+  -Business Intelligence (BI) Tools: Such as IBM Cognos Analytics for dashboard creation.
 
 
 Final Deliverable
 
 The project culminates with a presentation of the data analysis report for various stakeholders in the organization. The report includes:
 
-Executive Summary: A brief overview of the findings.
+  -Executive Summary: A brief overview of the findings.
 
-Analysis: Detailed analysis of the data.
+  -Analysis: Detailed analysis of the data.
 
-Conclusion: Key takeaways and recommendations based on the analysis.
+  -Conclusion: Key takeaways and recommendations based on the analysis.
 
 
 How to Run the Project
 
-Clone this repository to your local machine.
+  -Clone this repository to your local machine.
 
-Install the required Python libraries using pip install -r requirements.txt.
+  -Install the required Python libraries using pip install -r requirements.txt.
 
-Open the Jupyter notebooks in the notebooks/ directory to explore the analysis.
+  -Open the Jupyter notebooks in the notebooks/ directory to explore the analysis.
 
-View the final report in the report/ directory.
+  -View the final report in the report/ directory.
 
 
 Acknowledgements
